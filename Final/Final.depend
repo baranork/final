@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1564581664 source:d:\parcialfunk\final\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Funciones.h"
+
+1564580779 d:\parcialfunk\final\linkedlist.h
+
+1564581455 source:d:\parcialfunk\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Funciones.h"
+
+1564580503 source:d:\parcialfunk\final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"LinkedList.h"
+
+1564580655 d:\parcialfunk\final\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
